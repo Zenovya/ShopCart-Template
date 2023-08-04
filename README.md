@@ -2,4 +2,4 @@
 
 Template y funcionalidad de carrito de compras con JavaScript
 
-![](https://prnt.sc/kVTUNTBHW7Zm)
+![img](https://prnt.sc/kVTUNTBHW7Zm.jpg)
